@@ -1,0 +1,8 @@
+{
+    "check coverege": true,
+    "branches": 80,
+    "lines": 80,
+    "functions": 100,
+    "stetements": 80,
+    "reporter": ["html", "text"]
+}
